@@ -1,0 +1,1 @@
+Harpy is a personal project so I can learn C# and DsharpPlus in a fun way.
