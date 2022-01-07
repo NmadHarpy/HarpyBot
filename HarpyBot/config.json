@@ -1,4 +1,5 @@
 {
-  "token": "", // Uncomment and insert your token here
+  // Insert your token here
+  "token": "",
   "prefix": "?"
 }
